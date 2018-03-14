@@ -3403,7 +3403,8 @@ html.no-touchevents .c-overlay__section a:hover {
         width: 114%
     }
     .c-navbar__brand-name-wrapper {
-        top: -4px
+        top: -2px;
+        left: -4px;
     }
     .c-navbar__menu {
         height: 35px;
